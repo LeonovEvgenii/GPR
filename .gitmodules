@@ -1,0 +1,3 @@
+[submodule "AGI"]
+	path = AGI
+	url = https://github.com/LeonovEvgenii/AGI.git
